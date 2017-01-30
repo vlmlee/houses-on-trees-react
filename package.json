@@ -1,0 +1,19 @@
+{
+  "name": "housesontrees-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlmlee/houses-on-trees-react.git"
+  },
+  "author": "Michael Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlmlee/houses-on-trees-react/issues"
+  },
+  "homepage": "https://github.com/vlmlee/houses-on-trees-react#readme"
+}
